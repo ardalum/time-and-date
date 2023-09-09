@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #868e96;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 3.6rem;
+  font-weight: bolder;
+}
+
+.time,
+.date {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bolder;
+}
